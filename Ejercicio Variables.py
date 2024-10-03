@@ -14,6 +14,3 @@ saludo = "Hola, mundo"
 print (saludo)
 num1 = "7"
 print (num1)
-
-
-
